@@ -133,6 +133,11 @@ Write the command(s) that you used to do this below:
 ----------
 
 Answer: 
+jotionguy4@MSI:~$ cd mtec1002-lab-03/
+jotionguy4@MSI:~/mtec1002-lab-03$ pwd
+/home/jotionguy4/mtec1002-lab-03
+jotionguy4@MSI:~/mtec1002-lab-03$ 
+
 
 ==========
 OPTIONAL
@@ -141,7 +146,7 @@ OPTIONAL
 Write the command(s) that you used to do this below:
 ----------
 
-Answer:
+Answer:  ls -t
 
 ==========
 OPTIONAL
@@ -149,3 +154,13 @@ OPTIONAL
 
 Write the command(s) that you used to do this below:
 ----------
+
+Answer: tar -xvf zevyirmiyahu-DragonBallZ-Fighter-fc6c809.tar
+jotionguy4@MSI:~$ ls-          Downloads  image.png        mtec1002-lab-03.tar  textfile.txt
+1003       Music      mte1002          mtec1003             zevyirmiyahu-DragonBallZ-Fighter-fc6c809
+Desktop    folder1    mtec             newfile.dxe          zevyirmiyahu-DragonBallZ-Fighter-fc6c809.tar
+Documents  folder2    mtec1002-lab-03  pizza
+
+
+
+
